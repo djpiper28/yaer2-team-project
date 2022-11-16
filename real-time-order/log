@@ -1,0 +1,18 @@
+2022/03/18 17:39:56 Reading configuration
+2022/03/18 17:39:56 Loaded .env file
+2022/03/18 17:39:56 Connection string host=www.djpiper28.co.uk user=dev password=group_5_verysecure dbname=teamdev port=6445 sslmode=disable TimeZone=Europe/London
+2022/03/18 17:39:56 Successfully started gorm db connection
+2022/03/18 17:39:56 Connected to the db successfully
+2022/03/18 17:39:56 Loading initial cache
+2022/03/18 17:39:56 Loaded the initial cache
+2022/03/18 17:39:56 Mem Stats: Alloc = 0 MiB	TotalAlloc = 0 MiB	Sys = 8 MiB	NumGC = 0
+2022/03/18 17:39:56 Running final startup
+2022/03/18 17:39:56 Running real time order system on ws://127.0.0.1:8011
+2022/03/18 17:39:57 Connection string host=www.djpiper28.co.uk user=dev password=group_5_verysecure dbname=teamdev port=6445 sslmode=disable TimeZone=Europe/London
+2022/03/18 17:39:57 Successfully started gorm db connection
+2022/03/18 17:39:57 Connection string host=www.djpiper28.co.uk user=dev password=group_5_verysecure dbname=teamdev port=6445 sslmode=disable TimeZone=Europe/London
+2022/03/18 17:39:57 Successfully started gorm db connection
+2022/03/18 17:40:02 Connection string host=www.djpiper28.co.uk user=dev password=group_5_verysecure dbname=teamdev port=6445 sslmode=disable TimeZone=Europe/London
+2022/03/18 17:40:02 Successfully started gorm db connection
+2022/03/18 17:40:11 Connection string host=www.djpiper28.co.uk user=dev password=group_5_verysecure dbname=teamdev port=6445 sslmode=disable TimeZone=Europe/London
+2022/03/18 17:40:11 Successfully started gorm db connection
